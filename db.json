@@ -7,6 +7,10 @@
     }
   ],
   "data":[
-    
+    {
+      "id": 1,
+      "device" : "mobile",
+      "price" : 10500
+    }
   ]
 }

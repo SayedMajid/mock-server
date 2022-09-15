@@ -1,16 +1,5 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "Eum Et Est Occaecati",
-      "body": "Recusandae consequuntur expedita et cum\nreprehenderit ut quas totam\nautem sunt rem eveniet architecto"
-    }
-  ],
-  "data":[
-    {
-      "id": 1,
-      "device" : "mobile",
-      "price" : 10500
-    }
+  "users":[
+    
   ]
 }

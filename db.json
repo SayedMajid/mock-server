@@ -1,20 +1,24 @@
 {
-  "cars":[
-    
+  "cars": [],
+  "wishlisted_cars": [],
+  "users": [
+    {
+      "id": 1,
+      "name": "foo",
+      "title": "bar"
+    },
+    {
+      "id": 2,
+      "name": "foo2",
+      "title": "bar2"
+    },
+    {
+      "id": 2,
+      "name": "foo3",
+      "title": "bar3"
+    }
   ],
-  "wishlisted_cars" : [
-    
-  ],
-  "users" :[
-    
-  ],
-  "hotels":[
-    
-  ],
-  "products":[
-    
-  ],
-  "tesla" : [
-    
-  ]
+  "hotels": [],
+  "products": [],
+  "tesla": []
 }
